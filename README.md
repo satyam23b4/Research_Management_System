@@ -24,7 +24,7 @@ The Research Management System (RMS) is a web-based application designed to stre
     ```
 2. Navigate to the project directory:
     ```bash
-    cd RMS
+    cd Research_Management_Portal
     ```
 3. Set up the database:
     - Import the provided SQL file into your MySQL database.
