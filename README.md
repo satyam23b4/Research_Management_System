@@ -20,7 +20,7 @@ The Research Management System (RMS) is a web-based application designed to stre
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/RMS.git
+    git clone https://github.com/satyam23b4/Research_Management_System.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -60,4 +60,4 @@ The Research Management System (RMS) is a web-based application designed to stre
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Project Link: [https://github.com/satyam23b4/Research_Management_Portal](https://github.com/satyam23b4/Research_Management_Portal)
+Project Link: [https://github.com/satyam23b4/Research_Management_System](https://github.com/satyam23b4/Research_Management_System)
