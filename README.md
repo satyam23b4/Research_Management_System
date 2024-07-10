@@ -60,4 +60,4 @@ The Research Management System (RMS) is a web-based application designed to stre
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Project Link: [https://github.com/satyam23b4/Research_Management_System](https://github.com/satyam23b4/Research_Management_System)
+Project Link: [https://github.com/satyam23b4/Research_Management_System](https://github.com/satyam23b4/Reaserch_Management_System)
